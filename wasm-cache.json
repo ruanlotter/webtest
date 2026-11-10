@@ -1,0 +1,18 @@
+[
+  {"url": "Engine/Config/StagedBuild_TPWeb1.ini", "size": 3, "sha1": "57218c316b6921e2cd61027a2387edc31a2d9471", "br": 0},
+  {"url": "Engine/Content/Renderer/TessellationTable.bin", "size": 259568, "sha1": "3a3402ca2d3531ab8352c818ea1181288bd78c72", "br": 118561},
+  {"url": "Engine/GlobalShaderCache-SP_WEBGPU_ES3_1_DEFERRED.bin", "size": 852217, "sha1": "4e81b2e8da6e1f14c439d6d7fa2095db19a58fbe", "br": 121617},
+  {"url": "TPWeb1/Binaries/Wasm/TPWeb1.js", "size": 424495, "sha1": "9c4933b734417c56b872c676f1a8563ecd7a3d48", "br": 86621},
+  {"url": "TPWeb1/Binaries/Wasm/TPWeb1.wasm", "size": 208632602, "sha1": "2f6d8e48879f553152cfedc42431355eb0d8f6f1", "br": 42316933, "code": "9b1cc733209f4bfde2ce278b4d001d0d74a2c3d8"},
+  {"url": "TPWeb1/Content/Paks/TPWeb1-Wasm.pak", "size": 9251925, "sha1": "a5e28581e612c18a38471aef8ec23841e625b83c", "br": 8356702},
+  {"url": "TPWeb1/Content/Paks/TPWeb1-Wasm.ucas", "size": 37099216, "sha1": "c742b6ed4f619ba0a150e780159640b6ad1bdbd2", "br": 0},
+  {"url": "TPWeb1/Content/Paks/TPWeb1-Wasm.utoc", "size": 109613, "sha1": "832b8fa1975c679115b5dc2b8793fdd78f9117f2", "br": 61196},
+  {"url": "TPWeb1/Content/Paks/global.ucas", "size": 3791728, "sha1": "8601c3a0e3b21f8f96f5d12dcb143ab490f737cc", "br": 0},
+  {"url": "TPWeb1/Content/Paks/global.utoc", "size": 890, "sha1": "8ef351dedca5eb47c462ca97b842c0bcfd4b31dd", "br": 0},
+  {"url": "TPWeb1/Content/ShaderArchive-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode", "size": 5665503, "sha1": "18ae6eed0916c355d13602deabaa008a9d911e0c", "br": 3312566},
+  {"url": "TPWeb1/Content/ShaderArchive-TPWeb1-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode", "size": 1929815, "sha1": "ea1933247ce35763c2e5478911f7acab76056a7d", "br": 1137805},
+  {"url": "TPWeb1/Content/ShaderAssetInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json", "size": 17174, "sha1": "f5ce68e86ccc70838217ea0b391ee84c55ca43ff", "br": 2195},
+  {"url": "TPWeb1/Content/ShaderAssetInfo-TPWeb1-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json", "size": 14446, "sha1": "03edb39136f6dbf0b496f0798ff521228228ed40", "br": 2782},
+  {"url": "TPWeb1/Content/ShaderTypeInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo", "size": 23532, "sha1": "9c0c7a3eee5b412227915be260e8ade16709f1cf", "br": 7860},
+  {"url": "TPWeb1/Content/ShaderTypeInfo-TPWeb1-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo", "size": 7968, "sha1": "761e75af7a3d02db58bd419fa31403b6ba366a20", "br": 1171}
+]
